@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://github.com/khushahalichauhan">
+  <a href="https://github.com/SanthoshReddy8">
     <img src="logo/micon.png" border-radius="20px" width="65" alt="Santhosh Reddy" /></a>
 </p>
 
